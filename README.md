@@ -1,6 +1,8 @@
 # IBM-Quantum-Challenge-2023
 2023 IBM Quantum Challenge Labs
 
+## Labs
+
 Lab 1: Intro to Dynamic Circuits
 
 Lab 2: Quantum Teleportation
